@@ -1,0 +1,9 @@
+{
+    "tokenizer_class": "NlktTokenizer",
+    "auto_map": {
+    "AutoTokenizer": [
+        "tokenization_nltk.NlktTokenizer",
+        null
+        ]
+    }
+}
